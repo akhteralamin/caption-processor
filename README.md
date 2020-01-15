@@ -5,6 +5,9 @@ This is offline closed caption processor. This processor will linearize the capt
 2. Activate the environment before jumping into the code execution
 3. Run the command below
 Command: 
+
 ```python bulk_caption_file_converter.py -dir [Directory name where the srt files resides]```
+
 As example: While reading srt files from "Hypothesis Caption SRT" directory our execution command will be like this:
+
 ```python bulk_caption_file_converter.py -dir Hypothesis```
